@@ -1,4 +1,4 @@
-# Automated-Plant-Watering-System-
+# Automated-Plant-Watering-System
 INTRODUCTION:
 In this project, I created a smart plant watering system using Java and an Arduino board. I used essential libraries and APIs to establish a responsive connection with the board, enabling the system to water plants without the need for constant user involvement. This not only simplified plant care but also contributed to energy and time efficiency.
 
